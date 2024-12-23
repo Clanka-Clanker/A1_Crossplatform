@@ -1,0 +1,791 @@
+fileFormatVersion: 2
+guid: cc633396b5f95da4b916357a5508ee4f
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: PA_Warrior
+  - first:
+      1: 100004
+    second: PA_WarriorBody
+  - first:
+      1: 100006
+    second: PA_WarriorControl
+  - first:
+      1: 100008
+    second: PA_WarriorLtFrontLeg1
+  - first:
+      1: 100010
+    second: PA_WarriorLtFrontLeg2
+  - first:
+      1: 100012
+    second: PA_WarriorLtFrontLeg3
+  - first:
+      1: 100014
+    second: PA_WarriorLtRearLeg1
+  - first:
+      1: 100016
+    second: PA_WarriorLtRearLeg2
+  - first:
+      1: 100018
+    second: PA_WarriorRoot
+  - first:
+      1: 100020
+    second: PA_WarriorRtFrontLeg1
+  - first:
+      1: 100022
+    second: PA_WarriorRtFrontLeg2
+  - first:
+      1: 100024
+    second: PA_WarriorRtRearLeg1
+  - first:
+      1: 100026
+    second: PA_WarriorRtRearLeg2
+  - first:
+      1: 100028
+    second: PA_WarriorTail1
+  - first:
+      1: 100030
+    second: PA_WarriorTail2
+  - first:
+      1: 100032
+    second: PA_WarriorTail3
+  - first:
+      1: 100034
+    second: PA_WarriorTail4
+  - first:
+      1: 100036
+    second: PA_WarriorTail5
+  - first:
+      1: 100038
+    second: PA_WarriorWeapon1
+  - first:
+      1: 100040
+    second: PA_WarriorWeapon2
+  - first:
+      1: 100042
+    second: swarmWarriorLtFrontLeg4
+  - first:
+      1: 100044
+    second: swarmWarriorLtFrontLeg5
+  - first:
+      1: 100046
+    second: swarmWarriorLtRearLeg3
+  - first:
+      1: 100048
+    second: swarmWarriorLtRearLeg4
+  - first:
+      1: 100050
+    second: swarmWarriorLtRearLeg5
+  - first:
+      1: 100052
+    second: swarmWarriorRtFrontLeg3
+  - first:
+      1: 100054
+    second: swarmWarriorRtFrontLeg4
+  - first:
+      1: 100056
+    second: swarmWarriorRtFrontLeg5
+  - first:
+      1: 100058
+    second: swarmWarriorRtRearLeg3
+  - first:
+      1: 100060
+    second: swarmWarriorRtRearLeg4
+  - first:
+      1: 100062
+    second: swarmWarriorRtRearLeg5
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: PA_Warrior
+  - first:
+      4: 400004
+    second: PA_WarriorBody
+  - first:
+      4: 400006
+    second: PA_WarriorControl
+  - first:
+      4: 400008
+    second: PA_WarriorLtFrontLeg1
+  - first:
+      4: 400010
+    second: PA_WarriorLtFrontLeg2
+  - first:
+      4: 400012
+    second: PA_WarriorLtFrontLeg3
+  - first:
+      4: 400014
+    second: PA_WarriorLtRearLeg1
+  - first:
+      4: 400016
+    second: PA_WarriorLtRearLeg2
+  - first:
+      4: 400018
+    second: PA_WarriorRoot
+  - first:
+      4: 400020
+    second: PA_WarriorRtFrontLeg1
+  - first:
+      4: 400022
+    second: PA_WarriorRtFrontLeg2
+  - first:
+      4: 400024
+    second: PA_WarriorRtRearLeg1
+  - first:
+      4: 400026
+    second: PA_WarriorRtRearLeg2
+  - first:
+      4: 400028
+    second: PA_WarriorTail1
+  - first:
+      4: 400030
+    second: PA_WarriorTail2
+  - first:
+      4: 400032
+    second: PA_WarriorTail3
+  - first:
+      4: 400034
+    second: PA_WarriorTail4
+  - first:
+      4: 400036
+    second: PA_WarriorTail5
+  - first:
+      4: 400038
+    second: PA_WarriorWeapon1
+  - first:
+      4: 400040
+    second: PA_WarriorWeapon2
+  - first:
+      4: 400042
+    second: swarmWarriorLtFrontLeg4
+  - first:
+      4: 400044
+    second: swarmWarriorLtFrontLeg5
+  - first:
+      4: 400046
+    second: swarmWarriorLtRearLeg3
+  - first:
+      4: 400048
+    second: swarmWarriorLtRearLeg4
+  - first:
+      4: 400050
+    second: swarmWarriorLtRearLeg5
+  - first:
+      4: 400052
+    second: swarmWarriorRtFrontLeg3
+  - first:
+      4: 400054
+    second: swarmWarriorRtFrontLeg4
+  - first:
+      4: 400056
+    second: swarmWarriorRtFrontLeg5
+  - first:
+      4: 400058
+    second: swarmWarriorRtRearLeg3
+  - first:
+      4: 400060
+    second: swarmWarriorRtRearLeg4
+  - first:
+      4: 400062
+    second: swarmWarriorRtRearLeg5
+  - first:
+      43: 4300000
+    second: PA_Warrior
+  - first:
+      74: 7400000
+    second: PA_WarriorForward_Clip
+  - first:
+      74: 7400002
+    second: PA_WarriorBackward_Clip
+  - first:
+      74: 7400004
+    second: PA_WarriorLeft_Clip
+  - first:
+      74: 7400006
+    second: PA_WarriorRight_Clip
+  - first:
+      74: 7400008
+    second: PA_WarriorStop_Clip
+  - first:
+      74: 7400010
+    second: PA_WarriorIdle_Clip
+  - first:
+      74: 7400012
+    second: PA_WarriorAttack_Clip
+  - first:
+      74: 7400014
+    second: PA_WarriorCollapse_Clip
+  - first:
+      74: 7400016
+    second: PA_WarriorRecover_Clip
+  - first:
+      74: 7400018
+    second: PA_WarriorDeath_Clip
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: PA_Warrior
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftUpperLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: PA_WarriorForward_Clip
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PA_WarriorBackward_Clip
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 20
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PA_WarriorLeft_Clip
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 40
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PA_WarriorRight_Clip
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 60
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PA_WarriorStop_Clip
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 80
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PA_WarriorIdle_Clip
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 100
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PA_WarriorAttack_Clip
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 140
+      lastFrame: 210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PA_WarriorCollapse_Clip
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 210
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PA_WarriorRecover_Clip
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 220
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PA_WarriorDeath_Clip
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 250
+      lastFrame: 270
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: PA_Warrior(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PA_WarriorControl
+      parentName: PA_Warrior(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: PA_WarriorRoot
+      parentName: PA_WarriorControl
+      position: {x: -6.31705e-30, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PA_WarriorBody
+      parentName: PA_WarriorRoot
+      position: {x: -21, y: 4.6629367e-15, z: 0}
+      rotation: {x: 0.31853756, y: -0.71973455, z: 0.3984854, w: 0.47087723}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PA_WarriorTail1
+      parentName: PA_WarriorBody
+      position: {x: -19.209373, y: 3.5527137e-15, z: -1.5982008e-15}
+      rotation: {x: 0.22680435, y: -0.59773546, z: -0.032564905, w: 0.7682524}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PA_WarriorTail2
+      parentName: PA_WarriorTail1
+      position: {x: -14.035668, y: -5.107026e-15, z: 7.140214e-15}
+      rotation: {x: 0.015547885, y: -0.10126667, z: -0.029602524, w: 0.99429727}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PA_WarriorTail3
+      parentName: PA_WarriorTail2
+      position: {x: -10.770329, y: -8.881784e-15, z: 7.424895e-15}
+      rotation: {x: 0, y: 0, z: 0.008491619, w: 0.99996394}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PA_WarriorTail4
+      parentName: PA_WarriorTail3
+      position: {x: -9.848858, y: -1.9095836e-14, z: 6.9654175e-15}
+      rotation: {x: 0.001399421, y: -0.012276218, z: 0.0043393257, w: 0.9999143}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PA_WarriorTail5
+      parentName: PA_WarriorTail4
+      position: {x: -17.804493, y: -1.2434498e-14, z: 1.4215515e-14}
+      rotation: {x: 0.23112857, y: 0.6682661, z: -0.23112857, w: 0.6682661}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PA_WarriorWeapon1
+      parentName: PA_WarriorBody
+      position: {x: 2.8111277, y: 12.493901, z: -1.0255016e-14}
+      rotation: {x: -0.21323131, y: 0.9770017, z: -2.7676206e-16, w: 6.0403514e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PA_WarriorWeapon2
+      parentName: PA_WarriorWeapon1
+      position: {x: -12.369317, y: -2.220446e-15, z: 6.86635e-15}
+      rotation: {x: -0.08639661, y: -0.7018088, z: -0.08639661, w: 0.7018088}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PA_WarriorLtFrontLeg1
+      parentName: PA_WarriorBody
+      position: {x: 2.9163523, y: 2.3330817, z: 2}
+      rotation: {x: 0.4074024, y: 0.76766664, z: 0.41228077, w: 0.2733786}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PA_WarriorLtFrontLeg2
+      parentName: PA_WarriorLtFrontLeg1
+      position: {x: -6, y: -1.3322676e-15, z: 0}
+      rotation: {x: -0.009398155, y: 0.10602565, z: 0.9172878, w: -0.38373607}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PA_WarriorLtFrontLeg3
+      parentName: PA_WarriorLtFrontLeg2
+      position: {x: -19.849434, y: -1.7763568e-15, z: 0}
+      rotation: {x: 0, y: 0, z: 0.6606827, w: 0.7506653}
+      scale: {x: 1, y: 1, z: 1}
+    - name: swarmWarriorLtFrontLeg4
+      parentName: PA_WarriorLtFrontLeg3
+      position: {x: -15.556349, y: 1.0658141e-14, z: 0}
+      rotation: {x: 0, y: 0, z: 0.2922304, w: 0.95634794}
+      scale: {x: 1, y: 1, z: 1}
+    - name: swarmWarriorLtFrontLeg5
+      parentName: swarmWarriorLtFrontLeg4
+      position: {x: -18.110771, y: 1.3322676e-15, z: 0}
+      rotation: {x: 0, y: -0, z: -0.66692144, w: 0.74512804}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PA_WarriorLtRearLeg1
+      parentName: PA_WarriorBody
+      position: {x: -1.4498698, y: -1.1598958, z: 2}
+      rotation: {x: 0.027857557, y: 0.61681056, z: 0.5033192, w: 0.6045151}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PA_WarriorLtRearLeg2
+      parentName: PA_WarriorLtRearLeg1
+      position: {x: -6, y: -1.3322676e-15, z: 0}
+      rotation: {x: 0.00009729898, y: 0.0044735963, z: 0.43663266, w: -0.89962876}
+      scale: {x: 1, y: 1, z: 1}
+    - name: swarmWarriorLtRearLeg3
+      parentName: PA_WarriorLtRearLeg2
+      position: {x: -19.849434, y: -1.7763568e-15, z: 0}
+      rotation: {x: 0, y: 0, z: 0.640399, w: 0.76804245}
+      scale: {x: 1, y: 1, z: 1}
+    - name: swarmWarriorLtRearLeg4
+      parentName: swarmWarriorLtRearLeg3
+      position: {x: -15.556349, y: 1.0658141e-14, z: 0}
+      rotation: {x: 0.00014899268, y: -0.000506952, z: -0.37043536, w: 0.92885816}
+      scale: {x: 1, y: 1, z: 1}
+    - name: swarmWarriorLtRearLeg5
+      parentName: swarmWarriorLtRearLeg4
+      position: {x: -18.110771, y: 1.3322676e-15, z: 0}
+      rotation: {x: 0, y: -0, z: -0.66692144, w: 0.74512804}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PA_WarriorRtRearLeg1
+      parentName: PA_WarriorBody
+      position: {x: -1.4498703, y: -1.1598963, z: -2}
+      rotation: {x: 0.5419108, y: -0.2604558, z: -0.3461434, w: 0.7201946}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PA_WarriorRtRearLeg2
+      parentName: PA_WarriorRtRearLeg1
+      position: {x: 6, y: 3.5527137e-15, z: -8.881784e-16}
+      rotation: {x: -0.0039776345, y: 0.15208432, z: 0.87790596, w: -0.45402175}
+      scale: {x: 1, y: 1, z: 1}
+    - name: swarmWarriorRtRearLeg3
+      parentName: PA_WarriorRtRearLeg2
+      position: {x: 19.849405, y: -0.000031609237, z: 0.000010206224}
+      rotation: {x: 0.00000007999462, y: -0.00000008525232, z: 0.5577599, w: 0.8300024}
+      scale: {x: 1, y: 1, z: 1}
+    - name: swarmWarriorRtRearLeg4
+      parentName: swarmWarriorRtRearLeg3
+      position: {x: 15.556351, y: -0.000001406821, z: -0.0000005391956}
+      rotation: {x: -0.00000003588196, y: -0.00000012503745, z: 0.24073568, w: 0.9705907}
+      scale: {x: 1, y: 1, z: 1}
+    - name: swarmWarriorRtRearLeg5
+      parentName: swarmWarriorRtRearLeg4
+      position: {x: 18.110777, y: -0.000051949653, z: -0.00001695367}
+      rotation: {x: 0.000000005551638, y: -0.000000022181908, z: -0.66692144, w: 0.74512804}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PA_WarriorRtFrontLeg1
+      parentName: PA_WarriorBody
+      position: {x: 2.91635, y: 2.3330798, z: -2}
+      rotation: {x: 0.70660406, y: -0.33961147, z: -0.26891732, w: 0.5595161}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PA_WarriorRtFrontLeg2
+      parentName: PA_WarriorRtFrontLeg1
+      position: {x: 6, y: 3.5527137e-15, z: -2.220446e-15}
+      rotation: {x: -0.064788565, y: 0.17613725, z: -0.8405779, w: 0.5081406}
+      scale: {x: 1, y: 1, z: 1}
+    - name: swarmWarriorRtFrontLeg3
+      parentName: PA_WarriorRtFrontLeg2
+      position: {x: 19.84945, y: 0.00001755835, z: 0.0000010906459}
+      rotation: {x: -0.000000051125255, y: -0.00000006434788, z: 0.5325773, w: 0.84638137}
+      scale: {x: 1, y: 1, z: 1}
+    - name: swarmWarriorRtFrontLeg4
+      parentName: swarmWarriorRtFrontLeg3
+      position: {x: 15.556319, y: 0.000029825098, z: -0.000004948679}
+      rotation: {x: 0.000000031162863, y: 0.00000019108425, z: 0.228737, w: 0.9734883}
+      scale: {x: 1, y: 1, z: 1}
+    - name: swarmWarriorRtFrontLeg5
+      parentName: swarmWarriorRtFrontLeg4
+      position: {x: 18.110777, y: -0.00006273537, z: 0.000015773}
+      rotation: {x: 0, y: -0, z: -0.66692144, w: 0.74512804}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PA_Warrior
+      parentName: PA_Warrior(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
